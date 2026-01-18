@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.87c1dd26.css",
-    "main.js": "/static/js/main.3f8862b7.js",
+    "main.js": "/static/js/main.e740a4c3.js",
     "static/js/453.570fee16.chunk.js": "/static/js/453.570fee16.chunk.js",
     "static/media/lanyard.png": "/static/media/lanyard.fa283f395352d779205f.png",
     "static/media/card.glb": "/static/media/card.3279a2aa57717c6370c1.glb",
     "index.html": "/index.html",
     "main.87c1dd26.css.map": "/static/css/main.87c1dd26.css.map",
-    "main.3f8862b7.js.map": "/static/js/main.3f8862b7.js.map",
+    "main.e740a4c3.js.map": "/static/js/main.e740a4c3.js.map",
     "453.570fee16.chunk.js.map": "/static/js/453.570fee16.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.87c1dd26.css",
-    "static/js/main.3f8862b7.js"
+    "static/js/main.e740a4c3.js"
   ]
 }
